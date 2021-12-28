@@ -1,5 +1,5 @@
 # it-logger
-A Internal Logging Application for IT Department
+An Internal Logging Application for IT Department
 
 (i).You can add logs and prioritize them by making them as important.
 
