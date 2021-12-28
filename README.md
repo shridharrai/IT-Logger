@@ -1,11 +1,15 @@
 # it-logger
 A Internal Logging Application for IT Department
 
-(i).You can add logs and prioritize them by making them as important
-(ii).View logs on home screen in different colors according to their priority
-(iii).Delete the logs
-(iv).Add,delete and view technician list also
-(v).Search by log message or by technician name
+(i).You can add logs and prioritize them by making them as important.
+
+(ii).View logs on home screen in different colors according to their priority.
+
+(iii).Delete the logs.
+
+(iv).Add,delete and view technician list also.
+
+(v).Search by log message or by technician name.
 
 
 ![Capture](https://user-images.githubusercontent.com/50835817/147560819-bd22837d-4677-4b51-a527-43ecb5595f57.PNG)
